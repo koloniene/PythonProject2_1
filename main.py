@@ -61,7 +61,6 @@ a = random.randint (1, 12)
 b = random.randint (1, 12)
 c = random.randint (1, 12)
 
-
 # Sukurti du kintamuosius. Jiems priskirti savo
 # mylimo aktoriaus vardą ir pavardę kaip stringus
 # (Jonas Jonaitis). Atspausdinti trumpesnį stringą.
@@ -203,8 +202,6 @@ medziai = [
     "Kriaušė",
     "Gluosnis"
 ]
-
-
 for medis in reversed(medziai):
     print(medis)
 
