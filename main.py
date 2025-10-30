@@ -296,5 +296,3 @@ print("\nSkaičių didesnių nei 150:", count_over_150)
 
 
 
-git config --global user.name "koloniene"
-git config --global user.email "koloniene@gmail.com"
